@@ -1,1 +1,2 @@
-e > https://jamstudios.github.io/e
+# Welcome! This is sponsored by Dynamic Client!
+[visit plz...](sites.google.com/view/dynamic-client)
